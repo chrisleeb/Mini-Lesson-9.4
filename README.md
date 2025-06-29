@@ -20,7 +20,7 @@ Include a list of the tools used in the project:
 3. Matplotlib
 
 ## Installation Instructions
-Write steps to install and run the project.
+Add steps for setup.
 
 ## Contact Information
-Add your name, email, or GitHub link here.
+You can reach me at [your.email@example.com].
