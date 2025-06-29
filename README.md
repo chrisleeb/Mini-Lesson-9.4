@@ -1,6 +1,7 @@
 # README Template
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "GitHub logo - markdown")
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
 
 ## Table of Contents
 - [README Template](#readme-template)
